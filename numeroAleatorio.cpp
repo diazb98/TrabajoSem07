@@ -45,6 +45,7 @@ int main(int argc, char** argv) {
 		double probabilidad;
 		probabilidad=(double)a/veces;
 		cout<<"probabilidad: "<<probabilidad<<"\n";	
+		cout<<"Mi nombre es : ERICK ALEXIS DIAZ BUITRON"<<"\n";
 	}
 		
 	
