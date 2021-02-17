@@ -13,6 +13,8 @@ int main(int argc, char** argv) {
 	//printf ("El numero aleatorio de test vale %d\n", test);
 	//printf ("Otros numeros aleatorios son: %d, %d, %d\n",rand(),rand(),rand()) ;
 	//printf("La constante RAND_MAX vale %d\n", RAND_MAX);
+
+// segunda modificacion git diff
 	;
 	
 	int muestra=4;
